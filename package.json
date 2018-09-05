@@ -1,0 +1,24 @@
+{
+  "name": "typestub-jdenticon",
+  "version": "2.1.0",
+  "description": "The type definition for jdenticon package",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "keywords": [
+    "jdenticon",
+    "types",
+    "typestub"
+  ],
+  "author": "Beeno Tung <https://github.com/beenotung>",
+  "license": "BSD-2-Clause",
+  "scripts": {
+    "test": "tsc index.d.ts && node index.js"
+  },
+  "dependencies": {
+    "jdenticon": "^2.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^10.9.4",
+    "typescript": "^3.0.3"
+  }
+}
