@@ -2,8 +2,8 @@
   "name": "typestub-jdenticon",
   "version": "2.1.0-doc",
   "description": "The type definition for jdenticon package",
-  "main": "index.js",
-  "types": "index.d.ts",
+  "main": "node.js",
+  "types": "node.d.ts",
   "keywords": [
     "jdenticon",
     "types",

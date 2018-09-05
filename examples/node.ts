@@ -1,4 +1,4 @@
-import * as jdenticon from 'typestub-jdenticon';
+import * as jdenticon from 'typestub-jdenticon/node';
 
 console.log('version:', jdenticon.version);
 console.log('config:', jdenticon.config);
