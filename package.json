@@ -1,6 +1,6 @@
 {
   "name": "typestub-jdenticon",
-  "version": "2.1.0-doc",
+  "version": "2.1.0-fix",
   "description": "The type definition for jdenticon package",
   "main": "node.js",
   "types": "node.d.ts",
