@@ -1,6 +1,6 @@
 {
   "name": "typestub-jdenticon",
-  "version": "2.1.0",
+  "version": "2.1.0-doc",
   "description": "The type definition for jdenticon package",
   "main": "index.js",
   "types": "index.d.ts",
@@ -20,5 +20,13 @@
   "devDependencies": {
     "@types/node": "^10.9.4",
     "typescript": "^3.0.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beenotung/typestub-jdenticon.git"
+  },
+  "bugs": {
+    "url": "https://github.com/beenotung/typestub-jdenticon/issues"
+  },
+  "homepage": "https://github.com/beenotung/typestub-jdenticon#readme"
 }
